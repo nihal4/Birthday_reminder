@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/ea268c0b-5a41-450e-8c3f-bf0eb9111ed6" width="300">
+<img src="https://github.com/user-attachments/assets/96c9f6db-387c-4844-88b2-c710d894f3c8" width="250">
 
 
 # Birthday Reminder
@@ -19,20 +19,22 @@ The Birthday Reminder App is a handy tool to help you keep track of your friends
 - More interactive features and improvements.
 
 
+
 ## Screenshots
 
 <table> 
   <tr> 
-    <td><img src="https://github.com/user-attachments/assets/650c4683-2917-478c-ae4b-274af6e3fa01" width="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/fafacccb-892e-4fb0-9282-33940740e8e0" width="250"></td> 
+    <td><img src="https://github.com/user-attachments/assets/71c48b96-ad2e-4511-96c7-b57c39d9fd6e" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/e84b7e56-e003-4d58-9353-70315137f315" width="200"></td> 
+    
+     
   </tr> 
-  <tr> 
-    <td><img src="https://github.com/user-attachments/assets/88381415-00dc-481d-891a-7bfc40323d98" width="250"></td> 
-    <td><img src="https://github.com/user-attachments/assets/c40b309e-3e00-4864-8dd1-068d23286f74" width="250"></td> 
-  </tr> 
-  <tr> 
-    <td><img src="https://github.com/user-attachments/assets/new_screenshot_1" width="250"></td> 
-    <td><img src="https://github.com/user-attachments/assets/new_screenshot_2" width="250"></td> 
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2ab958d8-cc4e-4b10-8ac8-27d0a09d53d6" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/e4eedcd8-bf5e-44ce-9a1a-d8c18bc9e043" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/3caf7d74-1a50-4f31-909b-bc1862557d8f" width="200"></td>
+     
+    
   </tr> 
 </table>
 
