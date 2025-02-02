@@ -41,7 +41,7 @@ The Birthday Reminder App is a handy tool to help you keep track of your friends
 
 ## Installation
 
-- Download the APK file from latest [release](https://github.com/nihal4/Retro_Games/releases)
+- Download the APK file from latest [release](https://github.com/nihal4/Birthday_reminder/releases)
 
 - Install it on your Android device.
 
